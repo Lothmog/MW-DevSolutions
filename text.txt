@@ -1,0 +1,68 @@
+Service Plans
+
+1.Basic Service Plan
+-Price: $1,200
+-Description:
+    -5-page website (Home, About, Services, Contact, Blog)
+    -Basic design and layout
+    -Responsive design for mobile and desktop
+    -Basic SEO setup
+    -Contact form integration
+    -1 month of free hosting
+    -Hosting after free month: $15/mo
+    -1 hour of training on website management
+    -Hourly rate for Updates:$35/hour
+
+2. Intermediate Service Plan
+-Price: $3,000
+-Description:
+    -10-page website (includes additional pages like Portfolio, Testimonials, FAQ)
+    -Custom design and layout-Responsive design with advanced mobile Optimization
+    -Advanced SEO setup
+    -Contact form with email integration
+    -3 months of free hosting
+    -Hosting after free months: $30/mo
+    -Basic e-commerve setup (up to 10 products)
+    -2 hours of training on website management
+    -Monthly maintenance for 3 months
+    -Hourly rate for updates: $35/hour
+    
+
+3. Professional Service Plan
+    -Price:$5,000
+    -Description:
+    -20-page website (includes all pages from intermidiate plan plus custom pages)
+    -Premium custom design and layout
+    -Fully responsive design with premium mobile Optimization
+    -Advanced contact forms with CRM integration
+    -4 months of free hosting
+    -Hosting after free months: $50/mo
+    -Full e-commerce setup (up to 50 products)
+    -5 hours of training on website management-monthly maintenance for 4 months-Priority support
+    -Hourly rate for updates: $50/hour
+
+
+1. Basic SEO:
+    -Keyword Research:identifying relevant keywords that potential customers might use to find your business.
+    -On-Page Optimization: Optimizing meta tags, headers, and content with all the identified keywords.
+    -Technical SEO: Ensuring the website is crawlable by search engines, fixing broken links, and improving site speed.
+    -Local SEO: Optimizing for local search results, such as Google My Business listings. 
+
+
+2.Advanced SEO:
+    -Competitor Analysis: Analyzing the competitors' strategies to identify opportunities and gaps.
+    -Content Strategy: Developing a content plan that includes blogs, articles, and other 
+content types to attract and retain visitors.
+    -Link Building: Acuiring high-quality backlinks from reputable websites to boost domain authority.
+    -Mobile Optimization: Ensuring the website is fully responsive and performs well on mobile devices.
+
+
+3. Comprehensive SEO:
+    -Full Site Sudit: Conducting an in-depth audit to
+ identify all SEO issues and opportunities.
+    -Advanced Analytics: Using tools like Google Analytics
+ and Search Console to track performance, user behavior, and conversions.
+    -Conversion Rate Optimization (CRO): Improving the website's
+ ability to convert visitors into customers.
+    -Ongoing Monitoring and Reporting: Regularly tracking progress, 
+making adjustments, and providing detailed reports to show the impact of SEO efforts.
