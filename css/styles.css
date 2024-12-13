@@ -14,11 +14,6 @@ body {
   color: #282828;
   line-height: 26px;
 }
-.logos{
-  width: 50%;
-  height:50%;
-  
-}
 
 h1,
 h2,
@@ -169,9 +164,21 @@ color: #FFFFFF;
 .navbar.navbar-default .navbar-toggle {
   margin-top: 32px;
 }
+
+.mobile-logo{
+  display: none;
+}
+.desktop-logo{
+  display:block;
+  border-radius: 10px;
+  width: 50%;
+  height:50%;
+}
+
+
 .navbar.navbar-default .navbar-brand {
   height: auto;
-  padding: 22px 15px 21px;
+  /* padding: 22px 15px 21px; */
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
 color: #FFFFFF;
@@ -185,16 +192,28 @@ color: #FFFFFF;
 #main-nav.navbar-default {
 background: #141414;
 }
+@media screen and (max-width:768px){
+  body{
+    background-color:yellow;
+  }
+  .desktop-logo{
+    display:none;
+  }
+  .mobile-logo{
+    display:block;
+  }
+}
 @media only screen and (min-width: 768px) {
+  
   #main-nav.navbar-default {
     background: #141414;
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.26);
   }
   #main-nav.navbar-default .navbar-nav > li > a {
-    padding-top: 40px;
+    /* padding-top: 40px;
     padding-bottom: 36px;
-  
+   */
 }
   .navbar-default .navbar-nav>li>a {
 	color: #FFFFFF;
@@ -910,9 +929,9 @@ color: #FFFFFF;
 #contact-us {
   padding: 100px 0 10px;
 }
-#contact-us h1,
+/* #contact-us h1,
 #contact-us h2 {
-}
+} */
 /*Contact*/
  .contact-info{
  padding:60px 0;
